@@ -1,2 +1,1 @@
-# c23
-core.activities
+# Box Class
